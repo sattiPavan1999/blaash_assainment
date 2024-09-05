@@ -1,0 +1,19 @@
+.list-left-playList{
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 15vw;
+    height: 20vh;
+    background-color: aliceblue;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.image{
+    width: 5vw;
+}
+.title{
+    font-size: 10px;
+}

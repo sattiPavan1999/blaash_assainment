@@ -1,0 +1,98 @@
+.bg{
+    background-color: black;
+    display: flex;
+    background-size: cover;
+}
+.leftBox{
+    background-color: #828293;
+    ;
+    width: 265px;
+    top: 15px;
+    left: 15px;
+    gap: 0px;
+    opacity: 0px;
+}
+.middleTopBox{
+    width: 1122px;
+    height: 67px;
+    top: 16px;
+    left: 295px;
+    gap: 0px;
+    opacity: 0px;
+    background-color: aquamarine;       
+}
+
+.blaash-heading{
+    color: white;
+    margin-left: 40px;
+}
+.middleTopBox{
+    background-color: #828293;
+    width: 610px;
+    height: 67px;
+    top: 16px;
+    left: 295px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+}
+.middleBox{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.middleTopBox2{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;   
+}
+.heading{
+    color: white;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.para{
+    color: aliceblue;
+    font-size: 10px;
+    margin-right: 10px;
+}
+.middleMiddleBox{
+    background-color: #828293;
+    width: 400px;
+    height: 400px;
+    top: 16px;
+    left: 295px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;   
+}
+.middleRightBox{
+    background-color: #828293;
+    width: 200px;
+    height: 400px;
+    top: 16px;
+    left: 295px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px; 
+    margin-left: 10px;    
+}
+.middleBox2{
+    display: flex;
+}
+.unOrderedList{
+    display: flex;
+    flex-wrap: wrap;
+}
+.unOrderedList2{
+    display: flex;
+    flex-wrap: wrap;
+    overflow: auto;
+}
